@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ユキハルアメ",
+  "base_artist": "yanaginagi",
+  "createdAt": "2026-02-20T05:58:34.234773Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ユキハルアメ",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/01_ユキハルアメ_やなぎなぎ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユキハルアメ",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_ユキハルアメ_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ユキハルアメ",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_02_ユキハルアメ_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ユキハルアメ",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_03_ユキハルアメ_やなぎなぎ.txt"
+    }
+  ]
+}
